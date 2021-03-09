@@ -1,0 +1,31 @@
+{
+    "id": "shipyard-brewing-company",
+    "name": "Shipyard Brewing Company",
+    "address": "86 Newbury St, Portland, ME 04101",
+    "website": "https://shipyard.com/",
+    "lat": 43.661585099999996,
+    "long": -70.24862313941333,
+    "phone": "(800) 273-9253",
+    "hours": {
+        "Sunday": "11AM-5PM",
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "10AM-6PM",
+        "Thursday": "10AM-6PM",
+        "Friday": "11AM-8PM",
+        "Saturday": "11AM-8PM"
+    },
+    "comments": [
+        "Very mainstream, definitely geared towards tourists",
+        "TONS of beer options, they have everything!"
+    ],
+    "beers": [
+        "IPA",
+        "Sour",
+        "Lagers",
+        "Amber",
+        "Stout"
+    ],
+    "food": false,
+    "dogFriendly": false
+}

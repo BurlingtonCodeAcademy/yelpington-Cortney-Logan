@@ -1,0 +1,28 @@
+{
+    "id": "definitive-brewing-company",
+    "name": "Definitive Brewing Company",
+    "address": "35 Industrial Way, Portland, ME 04103",
+    "website": "https://www.definitivebrewing.com/",
+    "lat": 43.7026311,
+    "long": -70.3191016,
+    "phone": "(207) 536-1288",
+    "hours": {
+        "Sunday": "12-6PM",
+        "Monday": "12-7PM",
+        "Tuesday": "12-7PM",
+        "Wednesday": "12-7PM",
+        "Thursday": "12-8PM",
+        "Friday": "12-8PM",
+        "Saturday": "11AM-8PM"
+    },
+    "comments": [
+        "Lots of seating options and fun atmosphere.",
+        "Very few new releases, but the beers they have are consistent and always good."
+    ],
+    "beers": [
+        "IPA",
+        "Sour"
+    ],
+    "food": false,
+    "dogFriendly": true
+}

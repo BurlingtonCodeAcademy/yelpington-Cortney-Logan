@@ -1,0 +1,28 @@
+{
+    "id": "maine-beer-company",
+    "name": "Maine Beer Company",
+    "address": "525 US-1, Freeport, ME 04032",
+    "website": "https://www.mainebeercompany.com/",
+    "lat": 	43.83922605,
+    "long": -70.12094746997406,
+    "phone": "(207) 221-5711",
+    "hours": {
+        "Sunday": "11AM-8PM",
+        "Monday": "11AM-8PM",
+        "Tuesday": "11AM-8PM",
+        "Wednesday": "11AM-8PM",
+        "Thursday": "11AM-8PM",
+        "Friday": "11AM-8PM",
+        "Saturday": "11AM-8PM"
+    },
+    "comments": [
+        "Beer is incredible",
+        "You HAVE to have lunch, you'll never taste a beer like it!",
+        "Very unique tasting room....I feel sorta underdressed. But the beer and food are amazing!"
+    ],
+    "beers": [
+        "IPA"
+    ],
+    "food": true,
+    "dogFriendly": false
+}

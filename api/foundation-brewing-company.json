@@ -1,0 +1,30 @@
+{
+    "id": "foundation-brewing-company",
+    "name": "Foundation Brewing Company",
+    "address": "1 Industrial Way UNIT 5, Portland, ME 04103",
+    "website": "https://foundationbrew.com/",
+    "lat": 	43.7029012,
+    "long": -70.3199941,
+    "phone": "(207) 370-8187",
+    "hours": {
+        "Sunday": "12-5PM",
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "12-5PM",
+        "Thursday": "12-7PM",
+        "Friday": "12-7PM",
+        "Saturday": "12-7PM"
+    },
+    "comments": [
+        "Their new IPAs are so good!",
+        "Cool outside area to hang out with your pets.",
+        "Most of their beers are mediocre."
+    ],
+    "beers": [
+        "IPA",
+        "Sour",
+        "Lagers"
+    ],
+    "food": false,
+    "dogFriendly": true
+}

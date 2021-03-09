@@ -1,0 +1,30 @@
+{
+    "id": "bissel-brothers-brewing-company",
+    "name": "Bissel Brothers Brewing Company",
+    "address": "38 Resurgam Pl, Portland, ME 04102",
+    "website": "https://bissellbrothers.com/",
+    "lat": 43.6515,
+    "long": -70.2905,
+    "phone": "(207) 808-8258",
+    "hours": {
+        "Sunday": "11AM-5PM",
+        "Monday": "11AM-7PM",
+        "Tuesday": "11AM-7PM",
+        "Wednesday": "11AM-7PM",
+        "Thursday": "11AM-7PM",
+        "Friday": "11AM-7PM",
+        "Saturday": "11AM-7PM"
+    },
+    "comments": [
+        "Bissel Brothers is the best beer in Maine!",
+        "Overhyped - they're trying too hard to be Tree House while their beer needs a lot more work.",
+        "Substance is literally the best thing I've ever had!",
+        "I like beer"
+    ],
+    "beers": [
+        "IPA",
+        "Lagers"
+    ],
+    "food": false,
+    "dogFriendly": false
+}

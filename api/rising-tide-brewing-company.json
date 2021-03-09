@@ -1,0 +1,33 @@
+{
+    "id": "rising-tide-brewing-company",
+    "name": "Rising Tide Brewing Company",
+    "address": "103 Fox St, Portland, ME 04101",
+    "website": "https://risingtidebrewing.com/",
+    "lat": 43.665513,
+    "long": -70.2572199,
+    "phone": "(207) 370-2337",
+    "hours": {
+        "Sunday": "12-5PM",
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "2-8PM",
+        "Thursday": "2-8PM",
+        "Friday": "Closed",
+        "Saturday": "12-8PM"
+    },
+    "comments": [
+        "Best beer in Portland.",
+        "Every new beer is a good beer.",
+        "Great atmosphere, they keep the micobrewery dream alive.",
+        "If you're looking for a delicious beer and good wood-fire pizza with your honey, look no further!"
+    ],
+    "beers": [
+        "IPA",
+        "Sour",
+        "Lagers",
+        "Ales",
+        "Hefeweizen"
+    ],
+    "food": true,
+    "dogFriendly": true
+}

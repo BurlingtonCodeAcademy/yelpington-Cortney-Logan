@@ -1,0 +1,31 @@
+{
+    "id": "bunker-brewing-co",
+    "name": "Bunker Brewing Co",
+    "address": "17 Westfield St D, Portland, ME 04102",
+    "website": "http://bunkerbrewingco.com/",
+    "lat": 	43.6525826,
+    "long": -70.2838257,
+    "phone": "(207) 613-9471",
+    "hours": {
+        "Sunday": "12-6PM",
+        "Monday": "Closed",
+        "Tuesday": "Closed",
+        "Wednesday": "2-6PM",
+        "Thursday": "2-6PM",
+        "Friday": "12-6PM",
+        "Saturday": "12AM-6PM"
+    },
+    "comments": [
+        "Their toilettes are very clean :)",
+        "Grungy and awesome!",
+        "Beer was ok but the atmosphere was super cool",
+        "Dope-a$$ beer labels"
+    ],
+    "beers": [
+        "IPA",
+        "Sour",
+        "Lagers"
+    ],
+    "food": false,
+    "dogFriendly": false
+}

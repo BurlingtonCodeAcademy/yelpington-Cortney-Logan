@@ -1,0 +1,28 @@
+{
+    "id": "austin-street-brewery",
+    "name": "Austin Street Brewery",
+    "address": "115 Fox St, Portland, ME 04101",
+    "website": "https://www.austinstreetbrewery.com/",
+    "lat": 43.6650441,
+    "long": -70.2576206,
+    "phone": "(207) 200-1994",
+    "hours": {
+        "Sunday": "12-5PM",
+        "Monday": "2-8PM",
+        "Tuesday": "2-8PM",
+        "Wednesday": "2-8PM",
+        "Thursday": "2-8PM",
+        "Friday": "12-8PM",
+        "Saturday": "12-8PM"
+    },
+    "comments": [
+        "Very clean environment but the beer tries to be to main stream.  They have one really good beer but the rest are mehhhh.",
+        "Their sours are AMAZING!"
+    ],
+    "beers": [
+        "IPA",
+        "Sour"
+    ],
+    "food": false,
+    "dogFriendly": true
+}
